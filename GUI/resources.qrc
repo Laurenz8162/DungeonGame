@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Sprites">
+        <file>warrior.jpg</file>
+        <file>ranger.JPG</file>
+        <file>wizard.jpg</file>
+        <file>cleric.png</file>
+        <file>drache.PNG</file>
+    </qresource>
+</RCC>

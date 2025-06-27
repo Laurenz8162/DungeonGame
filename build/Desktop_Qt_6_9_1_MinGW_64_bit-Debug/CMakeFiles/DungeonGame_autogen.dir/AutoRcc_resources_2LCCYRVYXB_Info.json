@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/ranger.JPG",
+		"C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/drache.PNG",
+		"C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/wizard.jpg",
+		"C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/cleric.png",
+		"C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/warrior.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/DungeonGame_autogen.dir/AutoRcc_resources_2LCCYRVYXB_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "2LCCYRVYXB",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/DungeonGame_autogen.dir/AutoRcc_resources_2LCCYRVYXB_Used.txt",
+	"SOURCE" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

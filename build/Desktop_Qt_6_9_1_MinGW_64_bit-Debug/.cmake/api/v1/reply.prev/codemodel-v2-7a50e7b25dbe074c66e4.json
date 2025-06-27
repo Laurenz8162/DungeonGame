@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-10f8e5feecae3b53fccf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DungeonGame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DungeonGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DungeonGame-Debug-6236908f229e7cbbf3b0.json",
+					"name" : "DungeonGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DungeonGame_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DungeonGame_autogen-Debug-1f37046c6c9812447283.json",
+					"name" : "DungeonGame_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DungeonGame_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DungeonGame_autogen_timestamp_deps-Debug-9bfe3b49a1e6306139aa.json",
+					"name" : "DungeonGame_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "new_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-new_target-Debug-b70aa8a793a527bd0190.json",
+					"name" : "new_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "new_target_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-new_target_autogen-Debug-6b560e587d0e63b6e77f.json",
+					"name" : "new_target_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "new_target_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-new_target_autogen_timestamp_deps-Debug-ad5c6c4751de5c07d79f.json",
+					"name" : "new_target_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,16 @@
+# ninja log v6
+268	1771	7726921075353691	DungeonGame_autogen/timestamp	5264456bbfb373de
+2495	9624	7726921083921477	CMakeFiles/DungeonGame.dir/mainwindow.cpp.obj	f991aed042fd2142
+268	1771	7726921075353691	DungeonGame_autogen/mocs_compilation.cpp	5264456bbfb373de
+2471	9647	7726921083691255	CMakeFiles/DungeonGame.dir/DungeonGame_autogen/mocs_compilation.cpp.obj	eea2219dbc169b01
+268	1771	7726921075353691	C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/DungeonGame_autogen/timestamp	5264456bbfb373de
+268	1771	7726921075353691	C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/DungeonGame_autogen/mocs_compilation.cpp	5264456bbfb373de
+2492	9779	7726921083891445	CMakeFiles/DungeonGame.dir/main.cpp.obj	f943de049aab3881
+26468	28001	7726921323655431	DungeonGame.exe	d94c5fdb0e26cefa
+2502	9681	7726921084001553	CMakeFiles/DungeonGame.dir/source/characters.cpp.obj	ede6b44d349edf5f
+2511	9830	7726921084081613	CMakeFiles/DungeonGame.dir/source/combat.cpp.obj	5cfbfccd47a52097
+2499	9655	7726921083961515	CMakeFiles/DungeonGame.dir/GUI/menu.cpp.obj	388c37385cb3555d
+2507	10336	7726921084041583	CMakeFiles/DungeonGame.dir/GUI/combatscreen.cpp.obj	6d92f6d99cf7accf
+1771	2471	7726921083561140	DungeonGame_autogen/2LCCYRVYXB/qrc_resources.cpp	59584e1b8a62df49
+1771	2471	7726921083561140	C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/DungeonGame_autogen/2LCCYRVYXB/qrc_resources.cpp	59584e1b8a62df49
+2516	26468	7726921084131667	CMakeFiles/DungeonGame.dir/DungeonGame_autogen/2LCCYRVYXB/qrc_resources.cpp.obj	da7ca4857d98ca06

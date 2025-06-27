@@ -1,0 +1,9 @@
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/DungeonGame.dir
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/DungeonGame_autogen_timestamp_deps.dir
+C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/cmake-build-debug/CMakeFiles/DungeonGame_autogen.dir

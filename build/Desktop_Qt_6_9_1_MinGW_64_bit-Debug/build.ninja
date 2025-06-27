@@ -53,7 +53,7 @@ build CMakeFiles/DungeonGame.dir/DungeonGame_autogen/mocs_compilation.cpp.obj: C
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\DungeonGame.dir\DungeonGame_autogen\mocs_compilation.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/source -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\DungeonGame.dir
   OBJECT_FILE_DIR = CMakeFiles\DungeonGame.dir\DungeonGame_autogen
 
@@ -61,7 +61,7 @@ build CMakeFiles/DungeonGame.dir/main.cpp.obj: CXX_COMPILER__DungeonGame_unscann
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\DungeonGame.dir\main.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/source -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\DungeonGame.dir
   OBJECT_FILE_DIR = CMakeFiles\DungeonGame.dir
 
@@ -69,7 +69,7 @@ build CMakeFiles/DungeonGame.dir/mainwindow.cpp.obj: CXX_COMPILER__DungeonGame_u
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\DungeonGame.dir\mainwindow.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/source -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\DungeonGame.dir
   OBJECT_FILE_DIR = CMakeFiles\DungeonGame.dir
 
@@ -77,7 +77,7 @@ build CMakeFiles/DungeonGame.dir/GUI/menu.cpp.obj: CXX_COMPILER__DungeonGame_uns
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\DungeonGame.dir\GUI\menu.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/source -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\DungeonGame.dir
   OBJECT_FILE_DIR = CMakeFiles\DungeonGame.dir\GUI
 
@@ -85,7 +85,7 @@ build CMakeFiles/DungeonGame.dir/source/characters.cpp.obj: CXX_COMPILER__Dungeo
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\DungeonGame.dir\source\characters.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/source -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\DungeonGame.dir
   OBJECT_FILE_DIR = CMakeFiles\DungeonGame.dir\source
 
@@ -93,7 +93,7 @@ build CMakeFiles/DungeonGame.dir/GUI/combatscreen.cpp.obj: CXX_COMPILER__Dungeon
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\DungeonGame.dir\GUI\combatscreen.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/source -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\DungeonGame.dir
   OBJECT_FILE_DIR = CMakeFiles\DungeonGame.dir\GUI
 
@@ -101,7 +101,7 @@ build CMakeFiles/DungeonGame.dir/source/combat.cpp.obj: CXX_COMPILER__DungeonGam
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\DungeonGame.dir\source\combat.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/source -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\DungeonGame.dir
   OBJECT_FILE_DIR = CMakeFiles\DungeonGame.dir\source
 
@@ -109,7 +109,7 @@ build CMakeFiles/DungeonGame.dir/DungeonGame_autogen/2LCCYRVYXB/qrc_resources.cp
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\DungeonGame.dir\DungeonGame_autogen\2LCCYRVYXB\qrc_resources.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  INCLUDES = -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DungeonGame_autogen/include -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/source -IC:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\DungeonGame.dir
   OBJECT_FILE_DIR = CMakeFiles\DungeonGame.dir\DungeonGame_autogen\2LCCYRVYXB
 
@@ -225,7 +225,7 @@ build DungeonGame_autogen/timestamp DungeonGame_autogen/mocs_compilation.cpp | $
 #############################################
 # Custom command for DungeonGame_autogen\2LCCYRVYXB\qrc_resources.cpp
 
-build DungeonGame_autogen/2LCCYRVYXB/qrc_resources.cpp | ${cmake_ninja_workdir}DungeonGame_autogen/2LCCYRVYXB/qrc_resources.cpp: CUSTOM_COMMAND C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/resources.qrc CMakeFiles/DungeonGame_autogen.dir/AutoRcc_resources_2LCCYRVYXB_Info.json C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/ranger.JPG C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/drache.PNG C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/wizard.jpg C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/cleric.png C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/warrior.jpg C$:/Qt/6.9.1/mingw_64/bin/rcc.exe C$:/Qt/6.9.1/mingw_64/bin/rcc.exe || DungeonGame_autogen DungeonGame_autogen_timestamp_deps
+build DungeonGame_autogen/2LCCYRVYXB/qrc_resources.cpp | ${cmake_ninja_workdir}DungeonGame_autogen/2LCCYRVYXB/qrc_resources.cpp: CUSTOM_COMMAND C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/resources.qrc CMakeFiles/DungeonGame_autogen.dir/AutoRcc_resources_2LCCYRVYXB_Info.json C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/ranger.JPG C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/drache.PNG C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/wizard C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/warrior.PNG C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/wizard.jpg C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/cleric.png C$:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/GUI/warrior.jpg C$:/Qt/6.9.1/mingw_64/bin/rcc.exe C$:/Qt/6.9.1/mingw_64/bin/rcc.exe || DungeonGame_autogen DungeonGame_autogen_timestamp_deps
   COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\Laurenz\Documents\STUDIUM\Projekte\DungeonGame\build\Desktop_Qt_6_9_1_MinGW_64_bit-Debug && C:\Qt\Tools\CMake_64\bin\cmake.exe -E cmake_autorcc C:/Users/Laurenz/Documents/STUDIUM/Projekte/DungeonGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/DungeonGame_autogen.dir/AutoRcc_resources_2LCCYRVYXB_Info.json Debug"
   DESC = Automatic RCC for GUI/resources.qrc
   restat = 1

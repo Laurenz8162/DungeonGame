@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
-#include "C:\Users\Laurenz\Documents\STUDIUM\Projekte\DungeonGame\source\characters.h"
-#include "C:\Users\Laurenz\Documents\STUDIUM\Projekte\DungeonGame\source\combat.h"
+#include "characters.h"
 using namespace std;
 Character::Character(const string& name,  int health,  int strength,  int magic,  int speed, int mana)
     : name(name), health(health), maxHealth(health),strength(strength), magic(magic), speed(speed), mana(mana)
@@ -33,5 +32,5 @@ void Character::Ability(int index, Character *target) {
 }
 
 QString Character::getAbilityName(int index) {
-    return "error";
+    return  "Angriff";
 }

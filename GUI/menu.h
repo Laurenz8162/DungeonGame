@@ -3,7 +3,7 @@
 
 #include <QWidget>
 #include <vector>
-#include "C:\Users\Laurenz\Documents\STUDIUM\Projekte\DungeonGame\source\characters.h"
+#include "characters.h"
 #include <QPushButton>
 
 class Menu : public QWidget {

@@ -25,7 +25,7 @@ Combatscreen::Combatscreen(QWidget *parent) :
     // Warrior
     {
         QGraphicsScene* Warriorscene = new QGraphicsScene(this);
-        QPixmap Warriorimg(":/Sprites/warrior.jpg");
+        QPixmap Warriorimg(":/Sprites/warrior.PNG");
         Warriorscene->addPixmap(Warriorimg);
         ui->WarriorWidget->setScene(Warriorscene);
         ui->WarriorWidget->fitInView(Warriorscene->itemsBoundingRect(), Qt::KeepAspectRatioByExpanding);
@@ -34,7 +34,7 @@ Combatscreen::Combatscreen(QWidget *parent) :
     // Wizard
     {
         QGraphicsScene* Wizardscene = new QGraphicsScene(this);
-        QPixmap Wizardimg(":/Sprites/wizard.jpg");
+        QPixmap Wizardimg(":/Sprites/wizard");
         Wizardscene->addPixmap(Wizardimg);
         ui->WizardWidget->setScene(Wizardscene);
         ui->WizardWidget->fitInView(Wizardscene->itemsBoundingRect(), Qt::KeepAspectRatioByExpanding);

@@ -29,7 +29,10 @@ set(PROJECT_SOURCES
         source/oldcombat.h
         GUI/resources.qrc
 )
-
+include_directories(
+        ${CMAKE_SOURCE_DIR}/source
+        ${CMAKE_SOURCE_DIR}/GUI
+)
 # Define the target ONCE with all sources
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(DungeonGame

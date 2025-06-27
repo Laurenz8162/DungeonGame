@@ -4,7 +4,7 @@
 #include <QWidget>
 #include <QGraphicsScene>
 #include <QProgressBar>
-#include "C:\Users\Laurenz\Documents\STUDIUM\Projekte\DungeonGame\source\characters.h"
+#include "../source/characters.h"
 #include <QGraphicsView>
 #include <QLabel>
 namespace Ui {
